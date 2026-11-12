@@ -202,3 +202,7 @@ The GPU would pay off with a heavier compressor, such as dynamic Huffman or deep
 - `src/legacy.cpp` – `.oclr` decoders (`opencl_lz.py`, `opencl_compress.py`, `gpu_folder.py`)
 - `src/hardware.cpp` – device discovery (`hardware.py`)
 - `src/cli.cpp`, `src/gui.cpp` – command line and Win32 window
+
+## License
+
+MIT. See [LICENSE](LICENSE). You may use, copy, modify and share this code, including in commercial projects, as long as the copyright and license notice is kept.
